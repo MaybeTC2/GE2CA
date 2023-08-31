@@ -27,13 +27,13 @@ After each meal, feces are excreted at random events.
 After preying on seaweed for 5 times, it becomes an artificial big fish.  
 Death when hunger value is 0.  
 
-2. Artificial big fish,  
+2. Artificial big fish:  
 Artificial small fish preyed on artificial seaweed for 5 times and became artificial big fish.  
 Follow the boids model to move and avoid obstacles.  
 According to the hunger value, it will leave the shoal of fish to prey on small fish, and the hunger value is 35-50 random seconds.  
 Death occurs when the hunger value is 0.  
 
-3. Artificial seaweed,  
+3. Artificial seaweed:  
 Automatic random generation 
 Can be eaten by small fish for five times  
 Replenishment to feces can add 5 times to be eaten.  
