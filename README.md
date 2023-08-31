@@ -18,14 +18,14 @@ The Universe: Think about how the behavior of the artificial life forms in your 
 
 A 3d game project:
 
-I designed three artificial lives:
-1. Artificial small fish:
-Automatic random generation
-Follow the boids model to gather, move and avoid obstacles.
-According to the hunger value, it will leave the shoal of fish to prey on seaweed, and the hunger value is 35-50 random seconds.
-After each meal, feces are excreted at random events.
-After preying on seaweed for 5 times, it becomes an artificial big fish.
-Death when hunger value is 0.
+I designed three artificial lives:  
+1. Artificial small fish:  
+Automatic random generation  
+Follow the boids model to gather, move and avoid obstacles.  
+According to the hunger value, it will leave the shoal of fish to prey on seaweed, and the hunger value is 35-50 random seconds.  
+After each meal, feces are excreted at random events.  
+After preying on seaweed for 5 times, it becomes an artificial big fish.  
+Death when hunger value is 0.  
 
 2. Artificial big fish,
 Artificial small fish preyed on artificial seaweed for 5 times and became artificial big fish.
