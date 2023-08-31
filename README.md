@@ -35,7 +35,7 @@ Death occurs when the hunger value is 0.
 
 3. Artificial seaweed:  
 Automatic random generation 
-Can be eaten by small fish for five times  
+Can be eaten by small fish for 5 times  
 Replenishment to feces can add 5 times to be eaten.  
 
 4. Players can move the observation by moving the mouse and clicking the wasd key.  
