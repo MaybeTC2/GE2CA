@@ -38,7 +38,7 @@ Automatic random generation
 Can be eaten by small fish for 5 times  
 Replenishment to feces can add 5 times to be eaten.  
 
-4. Players can move the observation by moving the mouse and clicking the wasd key.  
+4. Players can move the observation by moving the mouse and clicking the WASD key.  
 
 You can directly change various data in the code file, such as the number and time of fish generation.  
 
