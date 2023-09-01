@@ -57,6 +57,7 @@ Replenishment to feces can add 5 times to be eaten.
 
 You can directly change various data in the code file, such as the number and time of fish generation.  
 
+## Difficulties and Bugs:
 Difficulties and errors encountered and solved:  
 Small fish and big fish switch.  
 What will fish do if food is eaten by others during predation?  
