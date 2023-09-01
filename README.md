@@ -59,13 +59,13 @@ You can directly change various data in the code file, such as the number and ti
 
 ## Difficulties and Bugs:
 Difficulties and errors encountered and solved:  
-Small fish and big fish switch.  
-What will fish do if food is eaten by others during predation?  
-How to calculate the new boid group without reporting errors.  
-The Boid logic may appear too close to the border and swim out directly.  
+1. Small fish and big fish switch.  
+2. What will fish do if food is eaten by others during predation?  
+3. How to calculate the new boid group without reporting errors.  
+4. The Boid logic may appear too close to the border and swim out directly.  
 
 Problems that still exist:  
-Two fish will twitch when they hit each other for prey food.  
+1. Two fish will twitch when they hit each other for prey food.  
 
 
 ## Demo video link:  
